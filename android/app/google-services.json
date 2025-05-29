@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988668207212",
+    "project_id": "cmpr-916b4",
+    "storage_bucket": "cmpr-916b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988668207212:android:c5759c76e3bf1f5ef7b849",
+        "android_client_info": {
+          "package_name": "com.example.cmpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNc3jyXou83JwrZov0RMfwKu0qwurd5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988668207212:android:538ed8ac2be5574ef7b849",
+        "android_client_info": {
+          "package_name": "com.mycompany.cmpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNc3jyXou83JwrZov0RMfwKu0qwurd5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
