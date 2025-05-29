@@ -1,7 +1,7 @@
 # CMPR
 
-A new Flutter project.
+A Final year project.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+FlutterFlow projects can be run on the FlutterFlow Framework.
